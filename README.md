@@ -9,7 +9,6 @@ Because this app is not published in appstore, in order to test and view its fun
 <br>
 This code has been made public only for my personal portfolio purposes. If you are a student at WashU, please note that I do not grant permission for anyone to turn in this code as their in-class project. Don't cheat, it's not cool.
 
----
 #
 
 <h3>Project Description</h3>
