@@ -11,5 +11,5 @@ This code has been made public only for my personal portfolio purposes. If you a
 
 ---
 
-<h3>Project description</h3><br>
+<h3>Project description</h3>
 This project is a shopping calculator that allows users to enter the price, discount, and sales tax associated with a product, and returns the final price the users will pay for it. If multiple users are shopping together and wishes to split their bills evenly, the calculator also has a "split the bill" function that takes the amount of people in the group and calculates the price each person will pay.
