@@ -10,7 +10,7 @@ Because this app is not published in appstore, in order to test and view its fun
 2. if you have Xcode installed, please download the code and run it with a iPhone 13 Pro simulator for best UI display
 </p>
 <p>
-This code has been made public only for my personal portfolio purposes. If you are a student at WashU, please note that I do not grant permission for anyone to turn in this code as their in-class project or use part of it in their assignment. I'll get notified if you did so, so don't cheat, it's not cool.
+This code has been made public only for my personal portfolio purposes. If you are a student at WashU, please note that I do not grant permission for anyone to turn in this code as their in-class project or use part of it in their assignment.
 </p>
 
 #
