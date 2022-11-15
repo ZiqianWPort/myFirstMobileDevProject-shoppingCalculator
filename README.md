@@ -2,7 +2,7 @@
 
 <h3>Notice</h3>
 <p>
-This is an in-class project from course CSE 438 "Mobile Application Development" taught by professor Todd Sproull at Washington University in St.Louis.
+Welcome to my first swift project! This is an in-class project from course CSE 438 "Mobile Application Development" taught by professor Todd Sproull at Washington University in St.Louis.
 </p>
 <p>
 Because this app is not published in appstore, in order to test and view its functionalities, please follow these steps:<br>
